@@ -3,3 +3,6 @@
 Welcome to Recipes
 Pasta
 Fried rice
+
+Beans
+Pizza
