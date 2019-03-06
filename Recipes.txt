@@ -8,6 +8,7 @@ Fried rice
 Beans
 Pizza
 
+This chage added in version 4.7
 
 THis text added in master copy
 
